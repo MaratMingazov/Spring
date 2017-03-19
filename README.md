@@ -14,4 +14,8 @@ The class diagram of the system is presented below
 
 <img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Classes.png" width="800">
 
-Step 1. Create IntelliJ IDEA new Gradle project
+Step 1. Create IntelliJ IDEA new Gradle project.
+
+Step 2. Add Dependencies.
+
+
