@@ -9,7 +9,9 @@
                             http://www.springframework.org/schema/data/mongo
                             http://www.springframework.org/schema/data/mongo/spring-mongo.xsd
                             http://www.springframework.org/schema/context
-                            http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+                            http://www.springframework.org/schema/context/spring-context.xsd
+                            http://www.springframework.org/schema/aop
+                            http://www.springframework.org/schema/aop/spring-aop.xsd">
 
     <context:property-placeholder location="database.properties"/>
     <context:annotation-config/>
@@ -24,10 +26,8 @@
                       password="${mongo.password}"
     />
 
-
     <bean class="org.library.BooksDAO" id="Dao"/>
     <bean class="org.library.LibraryService" id="LibraryService"/>
     <bean class="org.library.LoggingAspect" id="loggingAspect"/>
-
 
 </beans>
