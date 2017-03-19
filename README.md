@@ -40,4 +40,6 @@ MongoTemplate implements MongoOperations interface and uses dbFactory to specify
 
 Step 5. Create database.properties file. 
 
+<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Database.png" width="500">
+
 You can use this credentials or your own. 
