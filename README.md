@@ -29,3 +29,7 @@ Step 3. Create Book.java class
 <img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Book.png" width="500">
 
 Step 4. Create BooksDAO.java class
+
+<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/BooksDAO.png" width="500">
+
+This class uses @Autowired MongoOperations object. So we need to declare MongoOperations Bean in our application-context.xml
