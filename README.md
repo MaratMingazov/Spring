@@ -33,3 +33,11 @@ Step 4. Create BooksDAO.java class
 <img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/BooksDAO.png" width="500">
 
 This class uses @Autowired MongoOperations object. So we need to declare MongoOperations Bean in our application-context.xml
+
+<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Context1.png" width="500">
+
+MongoTemplate implements MongoOperations interface and uses dbFactory to specify database credentials. We use mongodb database. The 'property-placeholder' specifies the location of credentials file. In our case this is database.properties file.
+
+Step 5. Create database.properties file. 
+
+You can use this credentials or your own. 
