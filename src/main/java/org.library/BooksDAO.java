@@ -7,8 +7,7 @@ import java.util.List;
 
 public class BooksDAO {
 
-    @Autowired
-    private MongoOperations mongoOperations;
+    @Autowired private MongoOperations mongoOperations;
 
     public List<Book> getAllBooks() {
         return mongoOperations.findAll(Book.class);
