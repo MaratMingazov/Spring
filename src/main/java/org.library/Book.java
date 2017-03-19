@@ -1,18 +1,17 @@
-package org.spr;
-
-import org.springframework.data.annotation.Id;
-
-
+package org.library;
 
 public class Book {
 
-
-    @Id
-    private  String id;
-    private String ISBN;
-    private String Authors;
-    private int numberOfPages;
+    private String author;
     private String title;
 
+    public Book(String author, String title) {
+        this.author = author;
+        this.title = title;
+    }
+
+    public String toString() {
+        return author + "/" + title;
+    }
 
 }
