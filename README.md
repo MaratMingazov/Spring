@@ -18,4 +18,8 @@ Step 1. Create IntelliJ IDEA new Gradle project.
 
 Step 2. Add Dependencies.
 
+<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Dependencies.png" width="800">
 
+* Spring-context provides core functionality
+* Spring-data-mongodb provides a model for data access
+* aspectjweaver - actually "weaves" together the aspects/point-cuts/join-points in terms of AOP
