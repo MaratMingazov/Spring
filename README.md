@@ -12,16 +12,18 @@ The goal of this tutorial is step by step develop the simple library management 
 
 The class diagram of the system is presented below
 
-<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Classes.png" width="800">
+<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Classes.png" width="500">
 
 Step 1. Create IntelliJ IDEA new Gradle project.
 
 Step 2. Add Dependencies.
 
-<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Dependencies.png" width="800">
+<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Dependencies.png" width="500">
 
 * Spring-context provides core functionality
 * Spring-data-mongodb provides a model for data access
 * aspectjweaver - actually "weaves" together the aspects/point-cuts/join-points in terms of AOP
 
 Step 3. Create Book.java class
+
+<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Book.png" width="500">
