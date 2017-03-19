@@ -23,3 +23,5 @@ Step 2. Add Dependencies.
 * Spring-context provides core functionality
 * Spring-data-mongodb provides a model for data access
 * aspectjweaver - actually "weaves" together the aspects/point-cuts/join-points in terms of AOP
+
+Step 3. Create Book.java class
