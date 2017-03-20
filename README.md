@@ -62,3 +62,5 @@ Step 7. Create Main.java class
 <img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Main.png" width="500">
 
 If we start our application, we will see following output:
+
+<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Output1.png" width="500">
