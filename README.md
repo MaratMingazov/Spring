@@ -60,3 +60,5 @@ The full content of application-context.xml is presented below:
 Step 7. Create Main.java class
 
 <img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Main.png" width="500">
+
+If we start our application, we will see following output:
