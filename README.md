@@ -49,3 +49,4 @@ Step 6. Create LibraryService.java class
 <img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/LibraryService.png" width="500">
 
 This class use @Autowired  BooksDAO object. So we need to declare BooksDAO Bean in our application-context.xml
+We also declare the LibraryService.java class as Bean.
