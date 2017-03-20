@@ -52,3 +52,6 @@ This class use @Autowired  BooksDAO object. So we need to declare BooksDAO Bean 
 We also declare the LibraryService.java class as Bean.
 
 <img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Context2.png" width="500">
+
+The full content of application-context.xml is presented below:
+
