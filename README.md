@@ -43,3 +43,7 @@ Step 5. Create database.properties file.
 <img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Database.png" width="500">
 
 You can use this credentials or your own. 
+
+Step 6. Create LibraryService.java class
+
+<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/LibraryService.png" width="500">
