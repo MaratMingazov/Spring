@@ -55,5 +55,5 @@ We also declare the LibraryService.java class as Bean.
 
 The full content of application-context.xml is presented below:
 
-<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/FullContext.png" width="500">
+<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Context2.png" width="500">
 
