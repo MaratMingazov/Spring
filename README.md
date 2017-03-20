@@ -64,3 +64,5 @@ Step 7. Create Main.java class
 If we start our application, we will see following output:
 
 <img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Output1.png" width="500">
+
+Step 8. Create LoggingAspect.java class
