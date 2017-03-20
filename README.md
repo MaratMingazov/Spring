@@ -66,3 +66,9 @@ If we start our application, we will see following output:
 <img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Output1.png" width="500">
 
 Step 8. Create LoggingAspect.java class
+
+<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/LoggingAspect.png" width="500">
+
+If we start our application, we will see our result output:
+
+<img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/Output2.png" width="500">
