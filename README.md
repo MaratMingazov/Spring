@@ -57,3 +57,5 @@ The full content of application-context.xml is presented below:
 
 <img src="https://raw.githubusercontent.com/MaratMingazov/Spring/master/images/FullContext.png" width="500">
 
+Step 7. Create Main.java class
+
